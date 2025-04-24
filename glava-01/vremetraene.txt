@@ -1,0 +1,18 @@
+Пореден Номер	 |    Начало	 | 	Край	 | 	Времетраене	 | 	Условие	 | 	Резултат							|		Бележки			  |
+1		 | 13:01	 |	13:04	 |  	3 мин		 | стр 84 зад 1  |  https://docs.oracle.com/javase/6/docs/api/java/lang/System.html	| В менюто вляво трябва да намерите систем!
+																				  Натиснете ctrl+f и напишете System.
+											  	
+										
+
+2		 | 13:07	 |	13:15	 |	7 мин		 | стр 84 зад 2  | https://docs.oracle.com/javase/6/docs/api/java/io/PrintStream.html#println() |  Излиза информация за println()
+
+
+3 		 | 13:26	 |	13:37	 |	11 мин		 | стр 84 зад 3 | "D:\student\22324\glava-1\Zadacha3.java"
+											  "C:\Users\student\Pictures\Screenshots\Screenshot 2025-02-27 134035.png" 	| Отворете файловете с текущия път!
+											  "C:\Users\student\Pictures\Screenshots\Screenshot 2025-02-27 134205.png"	
+
+4		 | 13:44	|	13:45	 |	1 мин		 | стр 84 зад 4 | "D:\student\22324\glava-1\Zadacha4.java"
+											  "C:\Users\student\Pictures\Screenshots\Screenshot 2025-02-27 134740.png"	| Отворете файловете с текущия път!
+											  "C:\Users\student\Pictures\Screenshots\Screenshot 2025-02-27 134839.png"
+
+
