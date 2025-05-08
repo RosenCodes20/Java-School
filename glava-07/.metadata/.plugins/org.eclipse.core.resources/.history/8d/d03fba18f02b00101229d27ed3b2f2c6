@@ -1,0 +1,29 @@
+package glava07;
+
+public class zad04 {
+	public static void main(String[] args) {
+		int[] myArray = {1, 2, 2, 2, 3, 4, 5};
+		
+		int curValue = myArray[0];
+		
+		int count = 0;
+		
+		int maxValue = Integer.MIN_VALUE;
+		
+		for (int i = 1; i < myArray.length; i++) {
+			if (myArray[i] == curValue) {
+				count += 1;
+			} else {
+				count = 0;
+			}
+			
+			curValue = myArray[i];
+			
+			if (count > maxValue) {
+				maxValue = count;
+			}
+		}
+		
+		System.out.println(maxValue);
+	}
+}
