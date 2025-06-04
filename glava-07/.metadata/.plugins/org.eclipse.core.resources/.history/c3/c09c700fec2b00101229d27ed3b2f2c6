@@ -1,0 +1,19 @@
+package glava07;
+
+public class zad02 {
+	public static void main(String[] args) {
+		int[] myArray = {1, 2, 3, 4, 5};
+		
+		int[] myArray2 = {1, 2, 3, 4, 5, 6};
+		
+		boolean isFound = true;
+		
+		for (int i=0; i < myArray.length; i++) {
+			if (myArray[i] != myArray2[i]) {
+				isFound = false;
+			}
+		}
+		
+		System.out.print(isFound);
+	}
+}
